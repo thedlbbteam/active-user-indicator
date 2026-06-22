@@ -1,0 +1,2 @@
+(()=>{"use strict";flarum.reg.get("core","forum/app").initializers.add("justoverclock/be-active-user-indicator",()=>{console.log("[justoverclock/be-active-user-indicator] Hello, forum!")})})(),module.exports={};
+//# sourceMappingURL=forum.js.map

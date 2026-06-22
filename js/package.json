@@ -1,0 +1,14 @@
+{
+  "name": "@dlbb/flarum-ext-active-user-indicator",
+  "version": "2.0.0",
+  "type": "module",
+  "devDependencies": {
+    "flarum-webpack-config": "^3.0.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  }
+}

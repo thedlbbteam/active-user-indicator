@@ -1,0 +1,41 @@
+{
+    "name": "dlbb/flarum-ext-active-user-indicator",
+    "description": "Displays a clear active or inactive status badge on the admin user list based on email validation status.",
+    "keywords": ["flarum", "admin", "users", "indicator"],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "homepage": "https://github.com/justoverclockl/active-user-indicator",
+    "authors": [
+        {
+            "name": "DLBB",
+            "homepage": "https://discuss.flarum.org/u/DLBB",
+            "role": "Maintainer"
+        },
+        {
+            "name": "Justoverclock",
+            "homepage": "https://github.com/justoverclockl",
+            "role": "Original Developer"
+        }
+    ],
+    "require": {
+        "flarum/core": "^2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DLBB\\ActiveUserIndicator\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "DLBB Active User Indicator",
+            "category": "administration",
+            "icon": {
+                "name": "fas fa-user-check",
+                "backgroundColor": "#23d160",
+                "color": "#fff"
+            }
+        }
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true
+}

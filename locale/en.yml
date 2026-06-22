@@ -1,0 +1,5 @@
+dlbb-active-user-indicator:
+  admin:
+    activeUI: "Email Confirmed?"
+    active: "Yes"
+    notActive: "No"
