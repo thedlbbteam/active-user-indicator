@@ -1,5 +1,5 @@
 {
-    "name": "dlbb/flarum-ext-active-user-indicator",
+    "name": "dlbb/active-user-indicator",
     "description": "Displays a clear active or inactive status badge on the admin user list based on email validation status.",
     "keywords": ["flarum", "admin", "users", "indicator"],
     "type": "flarum-extension",
