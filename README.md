@@ -12,13 +12,13 @@ A [Flarum](http://flarum.org) extension. Add visual indicator for inactive users
 Install with composer:
 
 ```sh
-composer require dlbb/flarum-ext-active-user-indicator:"*"
+composer require dlbb/active-user-indicator:"*"
 ```
 
 ## Updating
 
 ```sh
-composer update dlbb/flarum-ext-active-user-indicator:"*"
+composer update dlbb/active-user-indicator:"*"
 php flarum migrate
 php flarum cache:clear
 ```
