@@ -1,6 +1,6 @@
 # Active Users Indicator
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/dlbb/flarum-ext-active-user-indicator.svg)](https://packagist.org/packages/dlbb/flarum-ext-active-user-indicator) [![Total Downloads](https://img.shields.io/packagist/dt/dlbb/flarum-ext-active-user-indicator.svg)](https://packagist.org/packages/dlbb/flarum-ext-active-user-indicator)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/dlbb/active-user-indicator.svg)](https://packagist.org/packages/dlbb/active-user-indicator) [![Total Downloads](https://img.shields.io/packagist/dt/dlbb/active-user-indicator.svg)](https://packagist.org/packages/dlbb/active-user-indicator)
 
 A [Flarum](http://flarum.org) extension. Add visual indicator for inactive users inside Users list.
 
